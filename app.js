@@ -5,7 +5,7 @@ const PORT = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
   res.send('Hello from AWS CodePipeline 🚀');
-  res.send('Hello zeeeeeee');
+  res.send('Hello Abdullah Jan');
 });
 
 app.listen(PORT, () => {
